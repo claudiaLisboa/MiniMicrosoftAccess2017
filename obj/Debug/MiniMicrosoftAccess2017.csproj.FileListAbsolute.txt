@@ -1,0 +1,17 @@
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\bin\Debug\MiniMicrosoftAccess2017.exe.config
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.Properties.Resources.resources
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.csproj.GenerateResource.Cache
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\bin\Debug\MiniMicrosoftAccess2017.exe
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\bin\Debug\MiniMicrosoftAccess2017.pdb
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.exe
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.pdb
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\Interop.ADODB.dll
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\Interop.DAO.dll
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.csproj.ResolveComReference.cache
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.frmAccess.resources
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.frmDataBase.resources
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.frmTable.resources
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.frmAllDB.resources
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\bin\Debug\Interop.DAO.dll
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.frmIndex.resources
+C:\Users\Claudia\Documents\Visual Studio 2015\Projects\MiniMicrosoftAccess2017\MiniMicrosoftAccess2017\obj\Debug\MiniMicrosoftAccess2017.frmRelation.resources
